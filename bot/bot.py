@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import WebAppInfo, InlineKeyboardMarkup, InlineKeyboardButton
 
 # ЗАМЕНИ НА СВОЙ ТОКЕН ОТ @BotFather
-BOT_TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН"
+BOT_TOKEN = "8967872422:AAFzL2_0syuccHppScD57vFFf0WWp0uqfd0"
 
 # ЗАМЕНИ ПОСЛЕ ДЕПЛОЯ НА RENDER
 WEBAPP_URL = "https://westy-toon.onrender.com"
